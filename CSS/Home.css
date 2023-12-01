@@ -1,0 +1,26 @@
+
+.imglogo {
+    margin: auto;
+    display: block;
+    width: 200px;
+}
+
+.noticias {
+    background-color: green;
+    text-align: center;
+}
+
+.departamentos {
+    background-color: red;
+    text-align: center;
+}
+
+.centrop {
+    background-color: blue;
+    text-align: center;
+}
+
+.sobrenosotros {
+    background-color: blueviolet;
+    text-align: center;
+}
